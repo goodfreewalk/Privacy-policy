@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+1. The term "personal information" used herein is defined as any information received from your phone's camera that identifies or can be used to identify, communicate or search for the person to whom such information relates. The personal information we use will be the subject of this privacy policy.
+2. When using the camera device We do **not save** video files on the device or elsewhere.
+3. When using the camera device does **not transfer** the video to anyone.
+4. Access to the device's camera is used **only to create an augmented reality** in real time.
+5. The security of your personal information will not be compromised.
+6. We do not ask for your email address, phone number or any information about you.
+7. We do not require registration.
+8. We do not ask for location information via our mobile application.
+9. We do not send newsletters to e-mail.
 
-You can use the [editor on GitHub](https://github.com/goodfreewalk/Privacy-policy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Required permissions
+1. Access to the camera device is used only to draw a background inside the game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Briefly about the game](https://mihin-s.github.io/AAA/) 
 
-### Markdown
+### [Link To Google Play](https://play.google.com/store/apps/details?id=com.gmail.goodfreewalk.aaa)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contacts
 
-```markdown
-Syntax highlighted code block
+e-mail: ([goodfreewalk@gmail.com](https://goodfreewalk@gmail.com))
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goodfreewalk/Privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
