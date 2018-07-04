@@ -11,7 +11,7 @@
 # Required permissions
 1. Access to the camera device is used only to draw a background inside the game.
 
-### [Briefly about the game](https://mihin-s.github.io/AAA/) 
+### [Briefly about the game](https://goodfreewalk.github.io/AAA/) 
 
 ### [Link To Google Play](https://play.google.com/store/apps/details?id=com.gmail.goodfreewalk.aaa)
 
